@@ -31,7 +31,7 @@ ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : SpidyLinkX</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/Mr_Spidy'>3.0.1</a></b>\n
 <b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/Mr_Spidy'>Mʀ.Sᴘɪᴅʏ</a></b>\n
-<b>🔸Cʜᴀɴɴᴇʟ : <a href='https://telegram.me/Mr_Spidy'>[ YᴏᴜʀDᴇᴍᴀɴᴅZᴏɴᴇ ]</a></b>"""
+<b>🔸Cʜᴀɴɴᴇʟ : <a href='https://telegram.me/YourDemandZone'>[ YᴏᴜʀDᴇᴍᴀɴᴅZᴏɴᴇ ]</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
